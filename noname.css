@@ -1,0 +1,13 @@
+*{
+	background-color:white;
+}
+.simple-ui{
+	background-color: none;
+	border:none;
+}
+.su-btn{
+	padding:10px;
+	padding-bottom:8px;
+	display: table-cell;
+    vertical-align: middle;
+}
