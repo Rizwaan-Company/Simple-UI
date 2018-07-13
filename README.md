@@ -4,6 +4,6 @@ Project Simple UI
 
 Please check back later or contribute with your own components.
 
-- Working components
+Working components:
 
- -- Set background color dynamically
+- Set background color dynamically
